@@ -1,0 +1,78 @@
+# Privacy Policy for Overscript.
+
+Last updated: September 2026
+
+Kristóf Mészáros operates the 'Overscript.' mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
+
+By using the Service, you agree to the collection and use of information in accordance with this policy.
+
+---
+
+### 1. Information We Collect
+
+#### A. Account Information
+If you choose to create an account or sign in using a third-party provider (such as Apple ID or Google Sign-In), we may receive basic account details:
+- Unique User Identifier (User ID)
+- Email address
+- Name / Display name (if provided by the authentication provider)
+
+This information is used strictly to authenticate you and manage your session within the app.
+
+#### B. Teleprompter Scripts & User Content
+Your scripts and user-generated text are associated with your user account to provide the service and may be stored locally on your device or securely synced to cloud infrastructure to enable multi-device access and backup. We do not inspect, monetize, or sell the content of your scripts.
+
+#### C. Video and Audio Recordings
+- **Camera & Microphone:** Used solely to record video and audio while displaying your teleprompter script. 
+- **Local Processing:** All recording and processing happen entirely on your device. Video files are saved directly to your local device or Photos Library upon your action and are **never** transmitted to our servers or third parties.
+
+---
+
+### 2. Third-Party Services and Analytics
+
+We use third-party services provided by Google LLC to improve app stability, monitor performance, and understand user behavior:
+
+- **Google Analytics for Firebase:** Collects anonymous/pseudonymous usage statistics (such as feature usage, session duration, general device model, and OS version) to help us improve the app experience.
+- **Firebase Crashlytics:** Collects crash logs, stack traces, and device state information when an error occurs to help us identify and fix bugs.
+- **Firebase Authentication / Google Sign-In:** Used to securely handle user logins.
+
+These third parties may collect information sent by your device. For more details on how Google handles your data, please review the [Google Privacy Policy](https://policies.google.com/privacy).
+
+---
+
+### 3. Device Permissions
+
+To operate properly, the app requests the following permissions:
+- **Camera:** Required to capture video while reading scripts.
+- **Microphone:** Required to record sound alongside the video.
+- **Photo Library:** Required to export and save recorded videos to your camera roll.
+
+You can revoke these permissions at any time via your iOS Settings.
+
+---
+
+### 4. Data Retention and Account Deletion
+
+We retain your authentication identifiers and synced script data for as long as your account remains active. 
+
+In compliance with Apple App Store guidelines, you may request the deletion of your account and all associated personal data at any time directly within the app settings or by contacting us at [Email címed].
+
+---
+
+### 5. Children's Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+---
+
+### 6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+
+---
+
+### 7. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at:
+
+**Email:** support-overscript@googlegroups.com
+**Developer:** Kristóf Mészáros
